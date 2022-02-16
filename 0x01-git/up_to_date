@@ -1,1 +1,1 @@
-Command used are touch to create the file and echo to write in the file
+Command used to pull from GitHub is git pull origin main
